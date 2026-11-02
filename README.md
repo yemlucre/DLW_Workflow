@@ -1,4 +1,4 @@
-# DLW_ProcessWorkflow（Agamemnon 工艺流程包）
+# DLW_Workflow（Agamemnon 工艺流程包）
 
 Agamemnon「Function 功能包分层」的第四个包：**工艺流程域**——组合设计数据与设备接口的编排层。从主项目 `Function/Agamemnon.ProcessWorkflow` 于 2026-11-02 抽出为独立仓库；为保证自包含可构建，同时携带两个依赖：`Agamemnon.Drawing`（同 [DLW_Drawing](https://github.com/yemlucre/DLW_Drawing)）与 `Agamemnon.DeviceControl`（同 [DLW_DeviceControl](https://github.com/yemlucre/DLW_DeviceControl)）。
 

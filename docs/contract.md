@@ -1,6 +1,6 @@
 # Agamemnon.ProcessWorkflow 工艺流程包契约
 
-检查日期：2026-11-02。能力 ID：`process.workflow_package`（implemented，agentExposed=false）。本文件是 `Function/Agamemnon.ProcessWorkflow`（现独立仓库 DLW_ProcessWorkflow）的接口契约与边界记录。
+检查日期：2026-11-02。能力 ID：`process.workflow_package`（implemented，agentExposed=false）。本文件是 `Function/Agamemnon.ProcessWorkflow`（现独立仓库 DLW_Workflow）的接口契约与边界记录。
 
 ## 定位与边界
 
