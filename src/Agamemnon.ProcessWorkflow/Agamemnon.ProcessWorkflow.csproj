@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Agamemnon.ProcessWorkflow</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <Version>1.0.0</Version>
+    <Description>Agamemnon process workflow package: preset management, exact 62.5 us/gate exposure math, design-to-stage preparation and job orchestration composing the Drawing and DeviceControl packages.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Agamemnon.Drawing\Agamemnon.Drawing.csproj" />
+    <ProjectReference Include="..\Agamemnon.DeviceControl\Agamemnon.DeviceControl.csproj" />
+  </ItemGroup>
+</Project>
